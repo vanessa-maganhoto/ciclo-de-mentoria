@@ -1,7 +1,18 @@
-## Seja bem Vindo ao projeto Ciclo de Mentoria;
+# Ciclo de Mentoria - PodCodar
 
-  Um projeto idealizado pelos fundadores da PodCodar, com o Objetivo de organizar e metrificar o ciclo de estudos do mentorado.Cada ciclo tem a duração de 3 meses e são divididos em sprints com duração combinada entre o mentor e o mentorado. 
-Nossas sprints tem a duração de 15 dias. 
- 
+## Seja bem vindo
 
- #### Entre ,leia ,fique a vontade !!
+Um projeto idealizado pelos pela PodCodar, com o Objetivo de **organizar** e **metrificar** e acompanhar o ciclo de estudos do mentorado.
+
+Cada ciclo tem a duração de **3 meses** e são divididos em sprints com duração de **15 dias**. 
+  
+## Como usar?
+
+> Seja mentorado pela PodCodar! ([veja como](https://www.podcodar.com/faca-parte))
+
+1. Faça um fork desse projeto para sua conta do github
+2. Dê acesso ao seu Mentor
+
+Após isso, utilize a aba `Projects` esse repositório para planejar suas sprints e acompanhar o andamento da monitoria.
+
+#### Entre, leia, fique a vontade!
