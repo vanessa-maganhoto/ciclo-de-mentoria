@@ -1,18 +1,22 @@
-# Ciclo de Mentoria - PodCodar
+# Primeiro Ciclo de Mentoria na PodCodar
+***
 
-## Seja bem vindo
+Este é o meu primeiro ciclo de mentoria na  [PodCar](https://www.linkedin.com/company/podcodar/).  Iniciei os estudos e não tinha nenhum conhecimento em programação. 
+O ponto de partida do meu aprendizado foi o curso de introdução à lógica de programação. Prosseguindo com HTML, CSS e JS. Os projetos desenvolvidos nos cursos estão em repositórios no meu [perfil do GitHub](https://github.com/vanessa-maganhoto). Neste ciclo de mentoria fui mentorada por [Hiago Oliveira](https://github.com/hiago-b-oliveira).
 
-Um projeto idealizado pelos pela PodCodar, com o Objetivo de **organizar** e **metrificar** e acompanhar o ciclo de estudos do mentorado.
+A proposta deste ciclo de mentoria era de adquirir os conhecimentos básicos e suficientes para o desenvolvimento de um projeto final. Dessa forma, fiz o site de correção de provas. Com o projeto final coloquei em prática os conhecimentos do HTML (pensando na semântica da linguagem de marcação), trabalhei no CSS visando o uso da psicologia das cores e, por fim, a linguagem JavaScript (cadastrar o gabarito, os alunos e gerar os resultados).
 
-Cada ciclo tem a duração de **3 meses** e são divididos em sprints com duração de **15 dias**. 
-  
-## Como usar?
+## Cursos:
+* Curso de Lógica de Programação da plataforma [Curso em Vídeo](https://youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) com o professor [Gustavo Guanabara](https://gustavoguanabara.github.io).
+* Curso de Git e Github da plataforma [Curso em Vídeo](https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA) com o professor [Gustavo Guanabara](https://gustavoguanabara.github.io).
+* Curso de HTML e CSS: [módulo 1](https://youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) e [módulo 2](https://youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s) ambos ministrados pelo professor [Gustavo Guanabara](https://gustavoguanabara.github.io).
+* Curso de JavaScript básico da plataforma [Curso em Vídeo](https://youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) com o professor [Gustavo Guanabara](https://gustavoguanabara.github.io).
+* Curso de HTML5 e CSS3: técnicas avançadas da plataforma [Hora de Codar](https://www.udemy.com/share/101xGu2@PW1gfWFjcFQId0NLAnR3Rj5uYFc=/) com o professor [Matheus Battisti](https://github.com/matheusbattisti).
 
-> Seja mentorado pela PodCodar! ([veja como](https://www.podcodar.com/faca-parte))
+## Repositórios
+* [Exercícios das aulas do curso de HTML e CSS](https://github.com/vanessa-maganhoto/exercicios-aulas-modulo01-curso-html-css)
+* [Exercícios de Lógica de Programação com o Visualg](https://github.com/vanessa-maganhoto/exercicios-logica-visualg)
+* [Desafios em JavaScript](https://github.com/vanessa-maganhoto/desafios-JS)
+* [Site Doceria](https://github.com/vanessa-maganhoto/projeto-site-doceria)
+* [Site Correção de Provas](https://github.com/vanessa-maganhoto/exercicio-correcao-de-provas)
 
-1. Faça um fork desse projeto para sua conta do github
-2. Dê acesso ao seu Mentor
-
-Após isso, utilize a aba `Projects` esse repositório para planejar suas sprints e acompanhar o andamento da monitoria.
-
-#### Entre, leia, fique a vontade!
